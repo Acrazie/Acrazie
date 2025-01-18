@@ -92,8 +92,14 @@
 
 <br clear="both">
 
+###
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=acrazie&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+<img src="https://raw.githubusercontent.com/Acrazie/Acrazie/output/snake.svg" alt="Snake animation" />
+
+###
 
 ###
