@@ -17,15 +17,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  A propos de moi</h3>
+<h2 align="left">👩‍💻  A propos de moi</h2
 
-###
+---------------
 
 <p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 et je suis passioné de cybersécurité <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
 
 ###
 
-<h3 align="left">🛠 Mes stacks</h3>
+<h2 align="left">🛠 Mes stacks</h2>
 
 ###
 
@@ -85,7 +85,9 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=acrazie&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -98,14 +100,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Acrazie&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-</picture>
-
-###
-
-###
+<div align="center">
+  <picture align="center">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
+  </picture>
+</div>
