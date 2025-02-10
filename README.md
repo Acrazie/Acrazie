@@ -21,7 +21,7 @@
 
 ---------------
 
-<p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 et je suis passioné de cybersécurité <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
+<p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
 
 ###
 
