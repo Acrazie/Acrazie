@@ -15,6 +15,11 @@
 
 <h1 align="center">Salut !👋 Moi c'est Mayeul !</h1>
 
+<div align="center">
+  
+  ![@Acrasie #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Acrasie)
+</div>
+  
 ###
 
 <h2 align="left">👩‍💻  A propos de moi</h2
