@@ -15,18 +15,12 @@
 
 <h1 align="center">Salut !👋 Moi c'est Mayeul !</h1>
 
-<div align="center">
-  
-  ![@Acrasie #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Acrasie)
-</div>
-  
 ###
 
-<h2 align="left">👩‍💻  A propos de moi</h2
-
----------------
+<h2 align="left">👩‍💻  A propos de moi</h2>
 
 <p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
+
 
 ###
 
