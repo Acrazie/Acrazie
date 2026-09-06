@@ -11,10 +11,9 @@
       <stop offset="60%" stop-color="#0E1322" stop-opacity="0.05" />
       <stop offset="100%" stop-color="#05070D" stop-opacity="0" />
     </radialGradient>
-    <!-- Backdrop filter for text legibility -->
     <radialGradient id="textBackdrop" cx="50%" cy="50%" r="45%">
-      <stop offset="0%" stop-color="#05070D" stop-opacity="0.88" />
-      <stop offset="65%" stop-color="#05070D" stop-opacity="0.75" />
+      <stop offset="0%" stop-color="#05070D" stop-opacity="0.92" />
+      <stop offset="65%" stop-color="#05070D" stop-opacity="0.80" />
       <stop offset="100%" stop-color="#05070D" stop-opacity="0" />
     </radialGradient>
     <style>
@@ -76,20 +75,19 @@
     <circle cx="1005" cy="20" r="0.6" fill="#C7D2FE" opacity="0.23" />
     <circle cx="860" cy="193" r="1.3" fill="#FFFFFF" opacity="0.4" />
     <circle cx="994" cy="75" r="1.0" fill="#C7D2FE" opacity="0.46" />
-    <circle cx="801" cy="179" r="1.2" fill="#94A3B8" opacity="0.5" />
-    <circle cx="342" cy="212" r="1.2" fill="#FFFFFF" opacity="0.23" />
-    <circle cx="884" cy="213" r="1.3" fill="#C7D2FE" opacity="0.59" />
-    <circle cx="317" cy="190" r="0.8" fill="#818CF8" opacity="0.25" />
+    <circle cx="1080" cy="86" r="0.8" fill="#94A3B8" opacity="0.63" />
+    <circle cx="810" cy="318" r="0.6" fill="#C7D2FE" opacity="0.55" />
+    <circle cx="812" cy="266" r="1.5" fill="#94A3B8" opacity="0.49" />
+    <circle cx="722" cy="92" r="1.5" fill="#818CF8" opacity="0.37" />
     <circle cx="1158" cy="158" r="1.5" fill="#FFFFFF" opacity="0.27" />
     <circle cx="236" cy="315" r="0.8" fill="#FFFFFF" opacity="0.36" />
     <circle cx="824" cy="51" r="0.7" fill="#FFFFFF" opacity="0.43" />
     <circle cx="975" cy="303" r="1.0" fill="#94A3B8" opacity="0.59" />
     <circle cx="411" cy="82" r="0.7" fill="#FFFFFF" opacity="0.62" />
     <circle cx="894" cy="221" r="0.7" fill="#C7D2FE" opacity="0.48" />
-    <circle cx="403" cy="167" r="0.9" fill="#FFFFFF" opacity="0.2" />
-    <circle cx="163" cy="83" r="0.9" fill="#94A3B8" opacity="0.56" />
-    <circle cx="624" cy="97" r="0.7" fill="#FFFFFF" opacity="0.39" />
-    <circle cx="141" cy="74" r="1.1" fill="#FFFFFF" opacity="0.55" />
+    <circle cx="574" cy="55" r="0.6" fill="#94A3B8" opacity="0.24" />
+    <circle cx="649" cy="82" r="1.2" fill="#FFFFFF" opacity="0.27" />
+    <circle cx="876" cy="20" r="0.7" fill="#FFFFFF" opacity="0.25" />
     <circle cx="1140" cy="175" r="1.1" fill="#94A3B8" opacity="0.47" />
     <circle cx="1104" cy="137" r="0.7" fill="#818CF8" opacity="0.4" />
     <circle cx="371" cy="319" r="0.8" fill="#818CF8" opacity="0.34" />
@@ -110,7 +108,6 @@
     <circle cx="158" cy="18" r="1.4" fill="#818CF8" opacity="0.28" />
     <circle cx="114" cy="267" r="1.1" fill="#C7D2FE" opacity="0.25" />
     <circle cx="61" cy="84" r="1.2" fill="#818CF8" opacity="0.64" />
-    <circle cx="251" cy="42" r="0.9" fill="#818CF8" opacity="0.22" />
   </g>
 
   <!-- Rotating spiral galaxy arms -->
@@ -481,16 +478,16 @@
   <ellipse class="core-glow" cx="600.0" cy="170.0" rx="140" ry="70" fill="url(#spaceCore)" />
 
   <!-- Text legibility backdrop shield -->
-  <ellipse cx="600.0" cy="170.0" rx="280" ry="110" fill="url(#textBackdrop)" />
+  <ellipse cx="600.0" cy="170.0" rx="320" ry="120" fill="url(#textBackdrop)" />
 
-  <!-- Foreground Typography (Mayeul / Software & AI Engineer) -->
+  <!-- Foreground Typography (Centered & Mathematically Aligned) -->
   <g transform="translate(600.0, 132.0)" text-anchor="middle">
-    <!-- Status indicator pill -->
+    <!-- Status indicator pill: 280px wide, centered at x=0 -->
     <g transform="translate(0, -28)">
-      <rect x="-160" y="-12" width="320" height="24" rx="12" fill="rgba(15, 23, 42, 0.85)" stroke="rgba(129, 140, 248, 0.3)" stroke-width="1" />
-      <circle cx="-140" cy="0" r="3.5" fill="#10B981" />
-      <circle cx="-140" cy="0" r="6" fill="#10B981" opacity="0.25" />
-      <text class="font-mono" x="-124" y="3.5" fill="#CBD5E1" font-size="10.5px" font-weight="500" letter-spacing="0.06em">AUTONOMOUS AGENTS &amp; SKILLS</text>
+      <rect x="-140" y="-13" width="280" height="26" rx="13" fill="rgba(15, 23, 42, 0.9)" stroke="rgba(129, 140, 248, 0.35)" stroke-width="1" />
+      <circle cx="-112" cy="0" r="3.5" fill="#10B981" />
+      <circle cx="-112" cy="0" r="6" fill="#10B981" opacity="0.25" />
+      <text class="font-mono" x="8" y="3.5" fill="#E2E8F0" font-size="10.5px" font-weight="600" letter-spacing="0.08em" text-anchor="middle">AUTONOMOUS AGENTS &amp; SKILLS</text>
     </g>
 
     <!-- Name Title -->
@@ -498,7 +495,7 @@
     <text class="font-mono" x="0" y="60" fill="#818CF8" font-size="13px" font-weight="600" letter-spacing="0.16em">@ACRAZIE</text>
 
     <!-- Professional Subtitle -->
-    <text class="font-sans" x="0" y="92" fill="#E2E8F0" font-size="15px" font-weight="500" letter-spacing="-0.01em">Software Engineer &amp; AI Engineer</text>
-    <text class="font-mono" x="0" y="112" fill="#94A3B8" font-size="12px" opacity="0.85">Agentic Harnesses · Production Skills · High-Reliability Systems</text>
+    <text class="font-sans" x="0" y="92" fill="#F8FAFC" font-size="15.5px" font-weight="500" letter-spacing="-0.01em">Software Engineer &amp; AI Engineer</text>
+    <text class="font-mono" x="0" y="114" fill="#CBD5E1" font-size="12px" opacity="0.9">Agentic Harnesses · Production Skills · High-Reliability Systems</text>
   </g>
 </svg>
