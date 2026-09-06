@@ -1,0 +1,220 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="100%" height="auto">
+  <defs>
+    <radialGradient id="meshGlow1_light" cx="20%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="rgba(165, 180, 252, 0.35)" />
+      <stop offset="100%" stop-color="rgba(165, 180, 252, 0.35)" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="meshGlow2_light" cx="85%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="rgba(196, 181, 253, 0.30)" />
+      <stop offset="100%" stop-color="rgba(196, 181, 253, 0.30)" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="meshGlow3_light" cx="50%" cy="95%" r="55%">
+      <stop offset="0%" stop-color="rgba(186, 230, 253, 0.25)" />
+      <stop offset="100%" stop-color="rgba(186, 230, 253, 0.25)" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid_light" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="rgba(148, 163, 184, 0.12)" stroke-width="1" />
+    </pattern>
+    <style>
+      @keyframes pulseGlow { 0%, 100% { transform: scale(1); opacity: 0.85; } 50% { transform: scale(1.08); opacity: 1; } }
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+      .font-mono { font-family: "SF Mono", Monaco, Inconsolata, "Fira Code", monospace; }
+      @keyframes float_p0 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(16px, -17px) rotate(19deg); } }
+      .p0 { animation: float_p0 5.5s ease-in-out -2.6s infinite; transform-origin: 258px 37px; }
+      @keyframes float_p1 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(16px, 4px) rotate(-7deg); } }
+      .p1 { animation: float_p1 5.1s ease-in-out -8.0s infinite; transform-origin: 95px 40px; }
+      @keyframes float_p2 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-9px, -9px) rotate(8deg); } }
+      .p2 { animation: float_p2 8.5s ease-in-out -6.6s infinite; transform-origin: 949px 326px; }
+      @keyframes float_p3 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(11px, 12px) rotate(-20deg); } }
+      .p3 { animation: float_p3 8.0s ease-in-out -1.9s infinite; transform-origin: 239px 72px; }
+      @keyframes float_p4 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-6px, -18px) rotate(-30deg); } }
+      .p4 { animation: float_p4 9.4s ease-in-out -6.4s infinite; transform-origin: 805px 65px; }
+      @keyframes float_p5 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(5px, 0px) rotate(-9deg); } }
+      .p5 { animation: float_p5 8.2s ease-in-out -6.4s infinite; transform-origin: 496px 173px; }
+      @keyframes float_p6 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(17px, -8px) rotate(6deg); } }
+      .p6 { animation: float_p6 5.8s ease-in-out -6.2s infinite; transform-origin: 576px 61px; }
+      @keyframes float_p7 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(2px, -9px) rotate(28deg); } }
+      .p7 { animation: float_p7 6.1s ease-in-out -0.6s infinite; transform-origin: 144px 142px; }
+      @keyframes float_p8 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(9px, 15px) rotate(16deg); } }
+      .p8 { animation: float_p8 7.8s ease-in-out -7.4s infinite; transform-origin: 840px 259px; }
+      @keyframes float_p9 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-8px, 21px) rotate(19deg); } }
+      .p9 { animation: float_p9 5.2s ease-in-out -8.9s infinite; transform-origin: 771px 137px; }
+      @keyframes float_p10 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-18px, 21px) rotate(-21deg); } }
+      .p10 { animation: float_p10 9.9s ease-in-out -1.4s infinite; transform-origin: 160px 222px; }
+      @keyframes float_p11 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-2px, 10px) rotate(-13deg); } }
+      .p11 { animation: float_p11 7.3s ease-in-out -0.5s infinite; transform-origin: 1129px 161px; }
+      @keyframes float_p12 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(15px, -22px) rotate(6deg); } }
+      .p12 { animation: float_p12 6.9s ease-in-out -8.4s infinite; transform-origin: 1069px 79px; }
+      @keyframes float_p13 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(18px, -17px) rotate(-25deg); } }
+      .p13 { animation: float_p13 6.2s ease-in-out -7.6s infinite; transform-origin: 1030px 34px; }
+      @keyframes float_p14 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(15px, 16px) rotate(19deg); } }
+      .p14 { animation: float_p14 9.7s ease-in-out -8.3s infinite; transform-origin: 1025px 60px; }
+      @keyframes float_p15 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(15px, 6px) rotate(-20deg); } }
+      .p15 { animation: float_p15 8.2s ease-in-out -5.6s infinite; transform-origin: 463px 301px; }
+      @keyframes float_p16 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-16px, -1px) rotate(-26deg); } }
+      .p16 { animation: float_p16 8.2s ease-in-out -7.7s infinite; transform-origin: 40px 140px; }
+      @keyframes float_p17 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(18px, 8px) rotate(-4deg); } }
+      .p17 { animation: float_p17 8.6s ease-in-out -1.2s infinite; transform-origin: 1082px 146px; }
+      @keyframes float_p18 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-15px, 21px) rotate(-23deg); } }
+      .p18 { animation: float_p18 6.8s ease-in-out -5.9s infinite; transform-origin: 998px 233px; }
+      @keyframes float_p19 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-7px, -5px) rotate(24deg); } }
+      .p19 { animation: float_p19 7.7s ease-in-out -8.6s infinite; transform-origin: 154px 231px; }
+      @keyframes float_p20 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-13px, -7px) rotate(-14deg); } }
+      .p20 { animation: float_p20 10.0s ease-in-out -1.6s infinite; transform-origin: 541px 63px; }
+      @keyframes float_p21 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(6px, -6px) rotate(23deg); } }
+      .p21 { animation: float_p21 5.3s ease-in-out -6.2s infinite; transform-origin: 862px 273px; }
+      @keyframes float_p22 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-15px, -2px) rotate(-28deg); } }
+      .p22 { animation: float_p22 5.3s ease-in-out -2.6s infinite; transform-origin: 1074px 241px; }
+      @keyframes float_p23 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-7px, -18px) rotate(-27deg); } }
+      .p23 { animation: float_p23 5.3s ease-in-out -4.9s infinite; transform-origin: 132px 324px; }
+      @keyframes float_p24 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-2px, -9px) rotate(5deg); } }
+      .p24 { animation: float_p24 7.8s ease-in-out -6.8s infinite; transform-origin: 321px 231px; }
+      @keyframes float_p25 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(18px, -16px) rotate(-26deg); } }
+      .p25 { animation: float_p25 5.0s ease-in-out -3.8s infinite; transform-origin: 1120px 160px; }
+      @keyframes float_p26 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(5px, -4px) rotate(-15deg); } }
+      .p26 { animation: float_p26 9.4s ease-in-out -1.2s infinite; transform-origin: 1131px 134px; }
+      @keyframes float_p27 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(1px, 20px) rotate(-22deg); } }
+      .p27 { animation: float_p27 5.0s ease-in-out -1.8s infinite; transform-origin: 927px 303px; }
+      @keyframes float_p28 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(3px, -9px) rotate(-2deg); } }
+      .p28 { animation: float_p28 6.4s ease-in-out -4.0s infinite; transform-origin: 305px 160px; }
+      @keyframes float_p29 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(3px, -14px) rotate(-2deg); } }
+      .p29 { animation: float_p29 9.1s ease-in-out -9.6s infinite; transform-origin: 1065px 275px; }
+      @keyframes float_p30 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-9px, 12px) rotate(-31deg); } }
+      .p30 { animation: float_p30 5.4s ease-in-out -1.2s infinite; transform-origin: 360px 251px; }
+      @keyframes float_p31 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-16px, 0px) rotate(-9deg); } }
+      .p31 { animation: float_p31 6.5s ease-in-out -1.0s infinite; transform-origin: 786px 323px; }
+      @keyframes float_p32 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-3px, -12px) rotate(-13deg); } }
+      .p32 { animation: float_p32 8.1s ease-in-out -8.5s infinite; transform-origin: 541px 77px; }
+      @keyframes float_p33 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-3px, -5px) rotate(-15deg); } }
+      .p33 { animation: float_p33 9.0s ease-in-out -1.4s infinite; transform-origin: 874px 37px; }
+      @keyframes float_p34 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-4px, -8px) rotate(-32deg); } }
+      .p34 { animation: float_p34 9.6s ease-in-out -6.5s infinite; transform-origin: 251px 220px; }
+      @keyframes float_p35 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-11px, -6px) rotate(-13deg); } }
+      .p35 { animation: float_p35 7.7s ease-in-out -0.6s infinite; transform-origin: 932px 229px; }
+      @keyframes float_p36 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(14px, -15px) rotate(14deg); } }
+      .p36 { animation: float_p36 8.9s ease-in-out -5.6s infinite; transform-origin: 573px 44px; }
+      @keyframes float_p37 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-6px, 1px) rotate(20deg); } }
+      .p37 { animation: float_p37 9.0s ease-in-out -3.1s infinite; transform-origin: 419px 155px; }
+      @keyframes float_p38 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(1px, 20px) rotate(17deg); } }
+      .p38 { animation: float_p38 8.6s ease-in-out -7.0s infinite; transform-origin: 173px 194px; }
+      @keyframes float_p39 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(7px, 13px) rotate(-35deg); } }
+      .p39 { animation: float_p39 5.9s ease-in-out -4.3s infinite; transform-origin: 313px 231px; }
+      @keyframes float_p40 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-8px, 20px) rotate(-25deg); } }
+      .p40 { animation: float_p40 7.6s ease-in-out -2.1s infinite; transform-origin: 1100px 171px; }
+      @keyframes float_p41 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-4px, -10px) rotate(-17deg); } }
+      .p41 { animation: float_p41 8.8s ease-in-out -3.3s infinite; transform-origin: 611px 288px; }
+      @keyframes float_p42 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(18px, -10px) rotate(14deg); } }
+      .p42 { animation: float_p42 5.4s ease-in-out -5.9s infinite; transform-origin: 80px 48px; }
+      @keyframes float_p43 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-12px, 5px) rotate(-7deg); } }
+      .p43 { animation: float_p43 9.5s ease-in-out -1.4s infinite; transform-origin: 1042px 229px; }
+      @keyframes float_p44 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(11px, 20px) rotate(32deg); } }
+      .p44 { animation: float_p44 9.2s ease-in-out -5.4s infinite; transform-origin: 390px 290px; }
+      @keyframes float_p45 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(12px, 6px) rotate(-2deg); } }
+      .p45 { animation: float_p45 7.7s ease-in-out -1.0s infinite; transform-origin: 679px 251px; }
+      @keyframes float_p46 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-3px, -5px) rotate(7deg); } }
+      .p46 { animation: float_p46 7.2s ease-in-out -2.9s infinite; transform-origin: 536px 166px; }
+      @keyframes float_p47 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-14px, 4px) rotate(17deg); } }
+      .p47 { animation: float_p47 8.5s ease-in-out -2.9s infinite; transform-origin: 684px 301px; }
+      @keyframes float_p48 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-17px, 14px) rotate(13deg); } }
+      .p48 { animation: float_p48 7.1s ease-in-out -1.0s infinite; transform-origin: 707px 302px; }
+      @keyframes float_p49 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(16px, 12px) rotate(-7deg); } }
+      .p49 { animation: float_p49 9.5s ease-in-out -1.6s infinite; transform-origin: 1006px 28px; }
+      @keyframes float_p50 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(7px, -12px) rotate(24deg); } }
+      .p50 { animation: float_p50 6.7s ease-in-out -3.2s infinite; transform-origin: 1029px 137px; }
+      @keyframes float_p51 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-10px, 7px) rotate(-12deg); } }
+      .p51 { animation: float_p51 5.1s ease-in-out -3.6s infinite; transform-origin: 291px 298px; }
+      @keyframes float_p52 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-1px, 4px) rotate(-3deg); } }
+      .p52 { animation: float_p52 6.7s ease-in-out -1.2s infinite; transform-origin: 132px 158px; }
+      @keyframes float_p53 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-16px, -21px) rotate(-4deg); } }
+      .p53 { animation: float_p53 6.7s ease-in-out -3.5s infinite; transform-origin: 197px 265px; }
+      @keyframes float_p54 { 0%, 100% { transform: translate(0px, 0px) rotate(0deg); } 50% { transform: translate(-5px, 7px) rotate(-3deg); } }
+      .p54 { animation: float_p54 8.3s ease-in-out -4.4s infinite; transform-origin: 438px 35px; }
+    </style>
+  </defs>
+
+  <!-- Background canvas -->
+  <rect width="1200" height="360" rx="16" fill="#FBFBFD" stroke="#E2E8F0" stroke-width="1.5" />
+  <rect width="1200" height="360" rx="16" fill="url(#grid_light)" />
+
+  <!-- Ambient radial gradient mesh -->
+  <rect width="1200" height="360" rx="16" fill="url(#meshGlow1_light)" />
+  <rect width="1200" height="360" rx="16" fill="url(#meshGlow2_light)" />
+  <rect width="1200" height="360" rx="16" fill="url(#meshGlow3_light)" />
+
+  <!-- Animated ASCII kinetic particles -->
+  <g class="font-mono">
+    <text class="p0" x="258" y="37" fill="#818CF8" font-size="11px" font-weight="500" opacity="0.32">{</text>
+    <text class="p1" x="95" y="40" fill="#818CF8" font-size="11px" font-weight="500" opacity="0.5">~</text>
+    <text class="p2" x="949" y="326" fill="#64748B" font-size="17px" font-weight="500" opacity="0.65">{</text>
+    <text class="p3" x="239" y="72" fill="#64748B" font-size="12px" font-weight="500" opacity="0.67">&lt;</text>
+    <text class="p4" x="805" y="65" fill="#A78BFA" font-size="17px" font-weight="500" opacity="0.56">§</text>
+    <text class="p5" x="496" y="173" fill="#64748B" font-size="13px" font-weight="500" opacity="0.39">^</text>
+    <text class="p6" x="576" y="61" fill="#818CF8" font-size="14px" font-weight="500" opacity="0.61">∆</text>
+    <text class="p7" x="144" y="142" fill="#A78BFA" font-size="13px" font-weight="500" opacity="0.38">+</text>
+    <text class="p8" x="840" y="259" fill="#A78BFA" font-size="11px" font-weight="500" opacity="0.37">/</text>
+    <text class="p9" x="771" y="137" fill="#475569" font-size="13px" font-weight="500" opacity="0.3">/</text>
+    <text class="p10" x="160" y="222" fill="#475569" font-size="13px" font-weight="500" opacity="0.51">&lt;</text>
+    <text class="p11" x="1129" y="161" fill="#64748B" font-size="12px" font-weight="500" opacity="0.47">:</text>
+    <text class="p12" x="1069" y="79" fill="#475569" font-size="14px" font-weight="500" opacity="0.35">}</text>
+    <text class="p13" x="1030" y="34" fill="#A78BFA" font-size="17px" font-weight="500" opacity="0.65">·</text>
+    <text class="p14" x="1025" y="60" fill="#818CF8" font-size="11px" font-weight="500" opacity="0.58">§</text>
+    <text class="p15" x="463" y="301" fill="#A78BFA" font-size="13px" font-weight="500" opacity="0.75">_</text>
+    <text class="p16" x="40" y="140" fill="#818CF8" font-size="10px" font-weight="500" opacity="0.29">#</text>
+    <text class="p17" x="1082" y="146" fill="#94A3B8" font-size="11px" font-weight="500" opacity="0.52">{</text>
+    <text class="p18" x="998" y="233" fill="#64748B" font-size="10px" font-weight="500" opacity="0.58">_</text>
+    <text class="p19" x="154" y="231" fill="#64748B" font-size="11px" font-weight="500" opacity="0.35">:</text>
+    <text class="p20" x="541" y="63" fill="#475569" font-size="10px" font-weight="500" opacity="0.28">1</text>
+    <text class="p21" x="862" y="273" fill="#818CF8" font-size="17px" font-weight="500" opacity="0.45">≠</text>
+    <text class="p22" x="1074" y="241" fill="#818CF8" font-size="12px" font-weight="500" opacity="0.36">/</text>
+    <text class="p23" x="132" y="324" fill="#475569" font-size="17px" font-weight="500" opacity="0.52">≠</text>
+    <text class="p24" x="321" y="231" fill="#64748B" font-size="13px" font-weight="500" opacity="0.58">∆</text>
+    <text class="p25" x="1120" y="160" fill="#A78BFA" font-size="17px" font-weight="500" opacity="0.72">1</text>
+    <text class="p26" x="1131" y="134" fill="#A78BFA" font-size="11px" font-weight="500" opacity="0.72">≈</text>
+    <text class="p27" x="927" y="303" fill="#475569" font-size="17px" font-weight="500" opacity="0.58">}</text>
+    <text class="p28" x="305" y="160" fill="#64748B" font-size="15px" font-weight="500" opacity="0.53">·</text>
+    <text class="p29" x="1065" y="275" fill="#64748B" font-size="10px" font-weight="500" opacity="0.57">{</text>
+    <text class="p30" x="360" y="251" fill="#94A3B8" font-size="14px" font-weight="500" opacity="0.25">§</text>
+    <text class="p31" x="786" y="323" fill="#818CF8" font-size="13px" font-weight="500" opacity="0.31">§</text>
+    <text class="p32" x="541" y="77" fill="#475569" font-size="17px" font-weight="500" opacity="0.45">&gt;</text>
+    <text class="p33" x="874" y="37" fill="#A78BFA" font-size="17px" font-weight="500" opacity="0.72">\</text>
+    <text class="p34" x="251" y="220" fill="#94A3B8" font-size="11px" font-weight="500" opacity="0.35">+</text>
+    <text class="p35" x="932" y="229" fill="#94A3B8" font-size="15px" font-weight="500" opacity="0.74">≈</text>
+    <text class="p36" x="573" y="44" fill="#475569" font-size="13px" font-weight="500" opacity="0.42">·</text>
+    <text class="p37" x="419" y="155" fill="#94A3B8" font-size="10px" font-weight="500" opacity="0.51">+</text>
+    <text class="p38" x="173" y="194" fill="#A78BFA" font-size="15px" font-weight="500" opacity="0.67">∆</text>
+    <text class="p39" x="313" y="231" fill="#94A3B8" font-size="15px" font-weight="500" opacity="0.62">0</text>
+    <text class="p40" x="1100" y="171" fill="#94A3B8" font-size="13px" font-weight="500" opacity="0.59">1</text>
+    <text class="p41" x="611" y="288" fill="#A78BFA" font-size="10px" font-weight="500" opacity="0.66">∆</text>
+    <text class="p42" x="80" y="48" fill="#94A3B8" font-size="14px" font-weight="500" opacity="0.67">^</text>
+    <text class="p43" x="1042" y="229" fill="#818CF8" font-size="15px" font-weight="500" opacity="0.59">^</text>
+    <text class="p44" x="390" y="290" fill="#64748B" font-size="14px" font-weight="500" opacity="0.37">1</text>
+    <text class="p45" x="679" y="251" fill="#475569" font-size="13px" font-weight="500" opacity="0.67">∆</text>
+    <text class="p46" x="536" y="166" fill="#94A3B8" font-size="15px" font-weight="500" opacity="0.37">≈</text>
+    <text class="p47" x="684" y="301" fill="#818CF8" font-size="11px" font-weight="500" opacity="0.37">~</text>
+    <text class="p48" x="707" y="302" fill="#94A3B8" font-size="10px" font-weight="500" opacity="0.35">1</text>
+    <text class="p49" x="1006" y="28" fill="#A78BFA" font-size="17px" font-weight="500" opacity="0.44">&gt;</text>
+    <text class="p50" x="1029" y="137" fill="#94A3B8" font-size="13px" font-weight="500" opacity="0.26">{</text>
+    <text class="p51" x="291" y="298" fill="#94A3B8" font-size="14px" font-weight="500" opacity="0.53">*</text>
+    <text class="p52" x="132" y="158" fill="#A78BFA" font-size="11px" font-weight="500" opacity="0.48">&lt;</text>
+    <text class="p53" x="197" y="265" fill="#475569" font-size="10px" font-weight="500" opacity="0.75">*</text>
+    <text class="p54" x="438" y="35" fill="#818CF8" font-size="11px" font-weight="500" opacity="0.31">∆</text>
+  </g>
+
+  <!-- Center Glassmorphism Showcase Card -->
+  <g transform="translate(340, 75)">
+    <rect width="520" height="210" rx="14" fill="rgba(255, 255, 255, 0.75)" stroke="#E2E8F0" stroke-width="1.2" backdrop-filter="blur(16px)" />
+
+    <!-- Minimal badge -->
+    <rect x="180" y="24" width="160" height="26" rx="13" fill="rgba(99, 102, 241, 0.08)" stroke="rgba(99, 102, 241, 0.2)" stroke-width="1" />
+    <circle cx="196" cy="37" r="4" fill="#4F46E5" />
+    <text class="font-mono" x="208" y="41" fill="#4F46E5" font-size="11px" font-weight="600" letter-spacing="0.05em">EPITECH PRE-MSC</text>
+
+    <!-- Name / Title -->
+    <text class="font-sans" x="260" y="98" fill="#0F172A" font-size="34px" font-weight="700" text-anchor="middle" letter-spacing="-0.03em">Mayeul</text>
+    <text class="font-mono" x="260" y="126" fill="#6366F1" font-size="13px" font-weight="600" text-anchor="middle" letter-spacing="0.12em">@ACRAZIE</text>
+
+    <!-- Subtitle -->
+    <text class="font-sans" x="260" y="158" fill="#475569" font-size="14.5px" font-weight="400" text-anchor="middle">Software Engineering · Next.js · Fullstack &amp; Creative Code</text>
+    <text class="font-mono" x="260" y="184" fill="#475569" font-size="12px" opacity="0.8" text-anchor="middle">surf · escalade · rando · agentic tech</text>
+  </g>
+</svg>
