@@ -1,87 +1,55 @@
-<div align="center">
-  <img src="./assets/hero-banner.svg" alt="Mayeul (@acrazie) - Software Engineer &amp; AI Engineer" width="100%">
-</div>
-
 <p align="center">
-  <a href="https://github.com/Acrazie" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Acrazie-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mayeul_D.-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.skills.sh/acrazie/skills" target="_blank">
-    <img src="https://img.shields.io/badge/Agent_Skills-skills.sh%2Facrazie-6366F1?style=flat-square&logo=dependabot&logoColor=white" alt="Skills Registry" />
-  </a>
+  <img src="./assets/hero-banner.svg" alt="Mayeul (@acrazie) — Software Engineer &amp; AI Engineer" width="100%">
 </p>
 
-<img src="./assets/divider.svg" width="100%">
+<p align="center">
+  <a href="https://github.com/Acrazie">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mayeuld/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.skills.sh/acrazie/skills">Agent Skills</a>
+</p>
 
-<div align="center">
-  <br>
-  <h3>Overview</h3>
-  <p style="max-width: 800px; line-height: 1.6;">
-    Software Engineer &amp; AI Engineer focused on autonomous agent runtimes, deterministic evaluation frameworks, and high-performance fullstack systems. Building production-grade skills and harnesses for next-generation coding agents.
-  </p>
-  <br>
-</div>
+<h2 align="center">Overview</h2>
 
-<img src="./assets/divider.svg" width="100%">
+<p align="center">
+  Software Engineer &amp; AI Engineer.<br>
+  Building skills for coding agents.
+</p>
 
-<br>
+<h2 align="center">Agentic Harnesses</h2>
 
-<div align="center">
-  <sub>RUNTIMES &amp; WORKSPACES</sub>
-  <h2>Agentic Harnesses</h2>
-</div>
+<p align="center">
+  <strong>Claude Code</strong> &nbsp;·&nbsp; <strong>Codex</strong> &nbsp;·&nbsp; <strong>Hermes</strong> &nbsp;·&nbsp; <strong>Anti-Gravity</strong>
+</p>
 
-<img src="./assets/harness-surface.svg" width="100%" alt="Agentic Harnesses Surface">
+<h2 align="center">Engineering Stack</h2>
 
-<br><br>
+<p align="center">
+  <strong>Frontend</strong><br>
+  React · TypeScript · JavaScript · SCSS · Tailwind CSS
+</p>
 
-<img src="./assets/divider.svg" width="100%">
+<p align="center">
+  <strong>Backend</strong><br>
+  Python · Symfony · Node.js · PostgreSQL
+</p>
 
-<br>
+<h2 align="center">Agent Skills Ecosystem</h2>
 
-<div align="center">
-  <sub>FOUNDATIONAL SYSTEMS</sub>
-  <h2>Engineering Stack</h2>
-</div>
+<p align="center">
+  Skills I build for coding agents.<br>
+  Browse the collection on <a href="https://www.skills.sh/acrazie/skills">skills.sh/acrazie/skills</a>.
+</p>
 
-<img src="./assets/stack-surface.svg" width="100%" alt="Core Engineering Stack Surface">
+### [SVG Icon Designer](https://www.skills.sh/acrazie/skills/svg-icon-designer-acrazie)
 
-<br><br>
+Design original SVG logos and icons through compact concept iterations.
 
-<img src="./assets/divider.svg" width="100%">
+### [Skill Refiner](https://www.skills.sh/acrazie/skills/skill-refiner-acrazie)
 
-<br>
+Capture testing feedback in structured logs and architectural decision records.
 
-<div align="center">
-  <sub>AUTONOMOUS CAPABILITIES</sub>
-  <h2>Agent Skills Ecosystem</h2>
-</div>
+### [Audit Repository](https://www.skills.sh/acrazie/skills/audit-repository-acrazie)
 
-Catalog of verified skills authored for autonomous coding agents, published on the global registry at [**skills.sh/acrazie/skills**](https://www.skills.sh/acrazie/skills).
-
-| Skill | Focus | Implementation |
-| :--- | :--- | :--- |
-| **`svg-icon-designer-acrazie`** | Autonomous SVG Logo &amp; Icon Synthesis | Modular geometric glyph construction with strict vector constraints |
-| **`skill-refiner-acrazie`** | Skill Refinement &amp; Testing Harness | Empirical testing loop, telemetry logging &amp; ADR documentation |
-| **`audit-repository-acrazie`** | Deep Repository &amp; Architecture Audit | Structured decision tree inspecting stacks, dependencies &amp; technical health |
+Inspect a technical decision against repository evidence.
 
 ```bash
-# Add the complete Acrazie skills suite
-$ npx skills add acrazie/skills
-
-# Or install individual skills directly
-$ npx skills add acrazie/audit-repository-acrazie
-$ npx skills add acrazie/skill-refiner-acrazie
-$ npx skills add acrazie/svg-icon-designer-acrazie
+npx skills add acrazie/skills
 ```
-
-<br>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="60%">
-  <br><br>
-  <sub><code>const systems = { focus: "deterministic agents", architecture: "resilient code", status: "always building" };</code></sub>
-</div>
