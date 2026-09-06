@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 230" width="100%" height="auto">
+  <defs>
+    <style>
+      .font-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+      .font-mono { font-family: "SF Mono", Monaco, "Cascadia Code", "Fira Code", monospace; }
+    </style>
+  </defs>
+  <!-- Card Claude Code -->
+  <g transform="translate(6.0, 8)">
+    <rect width="535" height="100" rx="10" fill="#090D16" stroke="rgba(255, 255, 255, 0.09)" stroke-width="1.2" />
+    <rect x="18" y="14" width="6" height="6" rx="3" fill="#818CF8" />
+    <text class="font-mono" x="30" y="20" fill="#818CF8" font-size="10px" font-weight="600" letter-spacing="0.08em">AGENTIC CLI</text>
+    <text class="font-sans" x="18" y="42" fill="#FFFFFF" font-size="15px" font-weight="700">Claude Code</text>
+    <text class="font-sans" x="145" y="42" fill="#94A3B8" font-size="12.5px" font-weight="500">· Terminal Coding Agent</text>
+    <line x1="18" y1="52" x2="517" y2="52" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
+    <text class="font-sans" x="18" y="70" fill="#94A3B8" font-size="12px" font-weight="400">
+      <tspan x="18" dy="0">Autonomous feature delivery, iterative refactoring,</tspan>
+      <tspan x="18" dy="16">and comprehensive test suites in local repositories.</tspan>
+    </text>
+  </g>
+  <!-- Card Codex -->
+  <g transform="translate(559.0, 8)">
+    <rect width="535" height="100" rx="10" fill="#090D16" stroke="rgba(255, 255, 255, 0.09)" stroke-width="1.2" />
+    <rect x="18" y="14" width="6" height="6" rx="3" fill="#818CF8" />
+    <text class="font-mono" x="30" y="20" fill="#818CF8" font-size="10px" font-weight="600" letter-spacing="0.08em">BACKGROUND DEV</text>
+    <text class="font-sans" x="18" y="42" fill="#FFFFFF" font-size="15px" font-weight="700">Codex</text>
+    <text class="font-sans" x="145" y="42" fill="#94A3B8" font-size="12.5px" font-weight="500">· Cloud Engineering Harness</text>
+    <line x1="18" y1="52" x2="517" y2="52" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
+    <text class="font-sans" x="18" y="70" fill="#94A3B8" font-size="12px" font-weight="400">
+      <tspan x="18" dy="0">Isolated worktrees, automated background reviews,</tspan>
+      <tspan x="18" dy="16">and multi-repo contextual code intelligence.</tspan>
+    </text>
+  </g>
+  <!-- Card Hermes -->
+  <g transform="translate(6.0, 120)">
+    <rect width="535" height="100" rx="10" fill="#090D16" stroke="rgba(255, 255, 255, 0.09)" stroke-width="1.2" />
+    <rect x="18" y="14" width="6" height="6" rx="3" fill="#818CF8" />
+    <text class="font-mono" x="30" y="20" fill="#818CF8" font-size="10px" font-weight="600" letter-spacing="0.08em">TOOL RUNTIME</text>
+    <text class="font-sans" x="18" y="42" fill="#FFFFFF" font-size="15px" font-weight="700">Hermes</text>
+    <text class="font-sans" x="145" y="42" fill="#94A3B8" font-size="12.5px" font-weight="500">· Autonomous Agent Engine</text>
+    <line x1="18" y1="52" x2="517" y2="52" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
+    <text class="font-sans" x="18" y="70" fill="#94A3B8" font-size="12px" font-weight="400">
+      <tspan x="18" dy="0">Local tool execution, custom skill invocation, continuous</tspan>
+      <tspan x="18" dy="16">subagent delegation, and memory persistence.</tspan>
+    </text>
+  </g>
+  <!-- Card Anti-Gravity -->
+  <g transform="translate(559.0, 120)">
+    <rect width="535" height="100" rx="10" fill="#090D16" stroke="rgba(255, 255, 255, 0.09)" stroke-width="1.2" />
+    <rect x="18" y="14" width="6" height="6" rx="3" fill="#818CF8" />
+    <text class="font-mono" x="30" y="20" fill="#818CF8" font-size="10px" font-weight="600" letter-spacing="0.08em">ORCHESTRATION</text>
+    <text class="font-sans" x="18" y="42" fill="#FFFFFF" font-size="15px" font-weight="700">Anti-Gravity</text>
+    <text class="font-sans" x="145" y="42" fill="#94A3B8" font-size="12.5px" font-weight="500">· Multi-Agent Systems</text>
+    <line x1="18" y1="52" x2="517" y2="52" stroke="rgba(255, 255, 255, 0.06)" stroke-width="1" />
+    <text class="font-sans" x="18" y="70" fill="#94A3B8" font-size="12px" font-weight="400">
+      <tspan x="18" dy="0">Coordinated multi-agent planning, rigorous decision</tspan>
+      <tspan x="18" dy="16">trees, safety boundaries, and verifiable deliverables.</tspan>
+    </text>
+  </g>
+</svg>

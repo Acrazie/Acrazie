@@ -1,95 +1,55 @@
-<div align="center">
-  <img height="200" width="961" src="./Background.jpg">
-</div>
-
-<br clear="both">
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/MayeulDBZ" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"></a>&nbsp;&nbsp;
+  <img src="./assets/hero-banner.svg" alt="Mayeul (@acrazie) — Software Engineer &amp; AI Engineer" width="100%">
 </p>
 
-###
+<p align="center">
+  <a href="https://github.com/Acrazie">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mayeuld/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.skills.sh/acrazie/skills">Agent Skills</a>
+</p>
 
-<h1 align="center">Salut !👋 Moi c'est Mayeul !</h1>
+<h2 align="center">Overview</h2>
 
-###
+<p align="center">
+  Software Engineer &amp; AI Engineer.<br>
+  Building skills for coding agents.
+</p>
 
-<h2 align="left">👩‍💻  A propos de moi</h2>
+<h2 align="center">Agentic Harnesses</h2>
 
-<p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
+<p align="center">
+  <strong>Claude Code</strong> &nbsp;·&nbsp; <strong>Codex</strong> &nbsp;·&nbsp; <strong>Hermes</strong> &nbsp;·&nbsp; <strong>Anti-Gravity</strong>
+</p>
 
+<h2 align="center">Engineering Stack</h2>
 
-###
+<p align="center">
+  <strong>Frontend</strong><br>
+  React · TypeScript · JavaScript · SCSS · Tailwind CSS
+</p>
 
-<h2 align="left">🛠 Mes stacks</h2>
+<p align="center">
+  <strong>Backend</strong><br>
+  Python · Symfony · Node.js · PostgreSQL
+</p>
 
-###
+<h2 align="center">Agent Skills Ecosystem</h2>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
+<p align="center">
+  Skills I build for coding agents.<br>
+  Browse the collection on <a href="https://www.skills.sh/acrazie/skills">skills.sh/acrazie/skills</a>.
+</p>
 
-###
+### [SVG Icon Designer](https://www.skills.sh/acrazie/skills/svg-icon-designer-acrazie)
 
-<h2 align="left">🔥   My Stats :</h2>
+Design original SVG logos and icons through compact concept iterations.
 
-###
+### [Skill Refiner](https://www.skills.sh/acrazie/skills/skill-refiner-acrazie)
 
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-  </picture>
-</div>
+Capture testing feedback in structured logs and architectural decision records.
+
+### [Audit Repository](https://www.skills.sh/acrazie/skills/audit-repository-acrazie)
+
+Inspect a technical decision against repository evidence.
+
+```bash
+npx skills add acrazie/skills
+```
