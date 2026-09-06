@@ -1,80 +1,68 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img alt="Mayeul (@Acrazie) - Fullstack Engineer & Creative Tech" src="./assets/hero-light.svg" width="100%">
-  </picture>
+  <img src="./assets/hero-banner.svg" alt="Mayeul (@acrazie) - Software Engineer &amp; AI Engineer" width="100%">
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
-  </a>
-  &nbsp;
-  <a href="https://linktr.ee/MayeulDBZ" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-43E660?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" height="28">
-  </a>
-  &nbsp;
   <a href="https://github.com/Acrazie" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
+    <img src="https://img.shields.io/badge/GitHub-Acrazie-0F172A?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayeul_D.-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.skills.sh/acrazie/skills" target="_blank">
+    <img src="https://img.shields.io/badge/Agent_Skills-skills.sh%2Facrazie-6366F1?style=flat-square&logo=dependabot&logoColor=white" alt="Skills Registry" />
   </a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%">
 
-### `// 01. ABOUT`
+### Overview
 
-> *Étudiant en Pré-Master of Science (Pre-MSC) à **Epitech**, passionné par la conception d'interfaces modernes, les architectures fullstack robustes et l'ingénierie logicielle agentique.*
+Software Engineer &amp; AI Engineer focused on autonomous agent runtimes, deterministic evaluation frameworks, and high-performance fullstack systems. Building production-grade skills and harnesses for next-generation coding agents.
 
-- 🔭 **Focus principal** : Développement d'applications web réactives avec **Next.js**, **React**, et **TypeScript**.
-- 📐 **Sens du détail & UI** : Attrait particulier pour le design sobre, le minimalisme néo-grotesque et les interactions cinétiques.
-- ⚡ **Outdoor & Passions** : Surf, escalade de bloc et randonnée.
+<img src="./assets/divider.svg" width="100%">
 
----
+<sub>RUNTIMES &amp; WORKSPACES</sub>
+## Agentic Harnesses
 
-### `// 02. STACK & ECOSYSTEM`
+<img src="./assets/harness-surface.svg" width="100%" alt="Agentic Harnesses Surface">
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🌐 Frontend & Creative</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /><br>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Backend & Data</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" /><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /><br>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      </p>
-    </td>
-    <td width="33%" valign="top">
-      <h4>🛠 Systems & Tooling</h4>
-      <p>
-        <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" /><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-        <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-      </p>
-    </td>
-  </tr>
-</table>
+<img src="./assets/divider.svg" width="100%">
 
----
+<sub>FOUNDATIONAL SYSTEMS</sub>
+## Engineering Stack
 
-### `// 03. CONTRIBUTION TELEMETRY`
+<img src="./assets/stack-surface.svg" width="100%" alt="Core Engineering Stack Surface">
+
+<img src="./assets/divider.svg" width="100%">
+
+<sub>AUTONOMOUS CAPABILITIES</sub>
+## Agent Skills Ecosystem
+
+Catalog of verified skills authored for autonomous coding agents, published on the global registry at [**skills.sh/acrazie/skills**](https://www.skills.sh/acrazie/skills).
+
+| Skill | Focus | Implementation |
+| :--- | :--- | :--- |
+| **`svg-icon-designer-acrazie`** | Autonomous SVG Logo &amp; Icon Synthesis | Modular geometric glyph construction with strict vector constraints |
+| **`skill-refiner-acrazie`** | Skill Refinement &amp; Testing Harness | Empirical testing loop, telemetry logging &amp; ADR documentation |
+| **`audit-repository-acrazie`** | Deep Repository &amp; Architecture Audit | Structured decision tree inspecting stacks, dependencies &amp; technical health |
+
+```bash
+# Add the complete Acrazie skills suite
+$ npx skills add acrazie/skills
+
+# Or install individual skills directly
+$ npx skills add acrazie/audit-repository-acrazie
+$ npx skills add acrazie/skill-refiner-acrazie
+$ npx skills add acrazie/svg-icon-designer-acrazie
+```
+
+<img src="./assets/divider.svg" width="100%">
+
+<sub>ACTIVITY MATRIX</sub>
+## Telemetry
 
 <div align="center">
   <picture>
@@ -87,5 +75,5 @@
 <br>
 
 <div align="center">
-  <sub><code>const dev = { focus: "clean code", design: "minimalist", status: "always building" };</code></sub>
+  <sub><code>const systems = { focus: "deterministic agents", architecture: "resilient code", status: "always building" };</code></sub>
 </div>
