@@ -1,95 +1,48 @@
-<div align="center">
-  <img height="200" width="961" src="./Background.jpg">
-</div>
-
-<br clear="both">
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"></a>&nbsp;&nbsp;
-  <a href="https://linktr.ee/MayeulDBZ" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"></a>&nbsp;&nbsp;
+  <img src="./assets/hero-banner.svg" width="100%" alt="Mayeul — Software Engineer &amp; AI Engineer">
 </p>
 
-###
+<p align="center">
+  <a href="https://github.com/Acrazie">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mayeuld/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.skills.sh/acrazie/skills">Agent Skills</a>
+</p>
 
-<h1 align="center">Salut !👋 Moi c'est Mayeul !</h1>
+<p align="center">Building skills for coding agents.</p>
 
-###
+<h2 align="center">Agentic Harnesses</h2>
 
-<h2 align="left">👩‍💻  A propos de moi</h2>
+<p align="center">
+  <img src="./assets/claude.svg" width="28" height="28" alt=""> <strong>Claude Code</strong> &nbsp;&nbsp;
+  <img src="./assets/codex.png" width="28" height="28" alt=""> <strong>Codex</strong> &nbsp;&nbsp;
+  <img src="./assets/hermes.png" width="28" height="28" alt=""> <strong>Hermes</strong> &nbsp;&nbsp;
+  <img src="./assets/antigravity.png" width="28" height="28" alt=""> <strong>Anti-Gravity</strong>
+</p>
 
-<p align="left">Je suis étudiant à Epitech en Pre-MSC<br><br>- 🔭 Je développe des apps en NextJS 🫶 <br>- 📚 J'apprends  ...<br>- ⚡ J'adore le surf, l'escalade, la randonnée</p>
+## Agent Skills Ecosystem
 
+<p>
+  <img src="./assets/skills-wordmark.svg" width="100%" alt="Acrazie / Skills">
+</p>
 
-###
+### [SVG Icon Designer](https://www.skills.sh/acrazie/skills/svg-icon-designer-acrazie)
 
-<h2 align="left">🛠 Mes stacks</h2>
+Original SVG logos and icons, developed through focused concept iterations.
 
-###
+### [Skill Refiner](https://www.skills.sh/acrazie/skills/skill-refiner-acrazie)
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=deno" height="40" alt="denojs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
+Structured testing feedback, refinement logs and decision records.
 
-###
+### [Audit Repository](https://www.skills.sh/acrazie/skills/audit-repository-acrazie)
 
-<h2 align="left">🔥   My Stats :</h2>
+Technical decisions examined against evidence from the repository.
 
-###
+[Explore the collection on skills.sh →](https://www.skills.sh/acrazie/skills)
 
-<div align="center">
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Acrazie/Acrazie/output/github-snake.svg" />
-  </picture>
-</div>
+```bash
+npx skills add acrazie/skills
+```
+
+## Engineering Stack
+
+**Frontend** &nbsp; React · TypeScript · JavaScript · SCSS · Tailwind CSS
+
+**Backend** &nbsp; Python · Symfony · Node.js · PostgreSQL
