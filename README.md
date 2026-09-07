@@ -19,8 +19,11 @@
 
 ## Agent Skills Ecosystem
 
-<p>
-  <img src="./assets/skills-wordmark.svg" width="100%" alt="Acrazie / Skills">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/acrazie-skills-dark.svg">
+    <img src="./assets/acrazie-skills.svg" width="560" alt="Acrazie / Skills — Portée">
+  </picture>
 </p>
 
 ### [SVG Icon Designer](https://www.skills.sh/acrazie/skills/svg-icon-designer-acrazie)

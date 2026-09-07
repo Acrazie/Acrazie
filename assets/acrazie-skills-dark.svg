@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="192" viewBox="0 0 560 192" fill="none" stroke="none" role="img" aria-labelledby="title desc">
+  <title id="title">Acrazie Skills</title>
+  <desc id="desc">Portée : trois bandes courbes en dégradé bleu, pervenche, lavande et iris, accompagnées du nom Acrazie Skills.</desc>
+  <defs>
+    <linearGradient id="portee-palette" gradientUnits="userSpaceOnUse" x1="14" y1="108" x2="114" y2="20">
+      <stop stop-color="#7295F5"/>
+      <stop offset=".34" stop-color="#A8BFFF"/>
+      <stop offset=".66" stop-color="#C5B9F5"/>
+      <stop offset="1" stop-color="#626CE8"/>
+    </linearGradient>
+  </defs>
+  <g transform="translate(24 16) scale(1.25)">
+    <path fill="url(#portee-palette)" d="M14 20H62C86 20 106 31 114 50H88C82 43 73 40 61 40H14Z M14 54H53C74 54 91 64 100 82H74C69 76 62 74 52 74H14Z M14 88H44C57 88 68 95 74 108H14Z"/>
+  </g>
+  <g fill="#F8F9FF" font-family="Arial, Helvetica, sans-serif">
+    <text x="214" y="101" font-size="48" font-weight="600" letter-spacing="-1.8">Acrazie</text>
+    <text x="215" y="134" font-size="14" font-weight="400" letter-spacing="4">SKILLS</text>
+  </g>
+</svg>
