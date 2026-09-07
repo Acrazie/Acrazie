@@ -1,4 +1,4 @@
-
 # Hermes artifacts
 .hermes/
-
+__pycache__/
+*.pyc

@@ -1,55 +1,67 @@
 <p align="center">
-  <img src="./assets/hero-banner.svg" alt="Mayeul (@acrazie) — Software Engineer &amp; AI Engineer" width="100%">
+  <img src="./assets/hero-banner.svg?v=2" width="100%" alt="Mayeul — AI Engineer">
 </p>
 
 <p align="center">
-  <a href="https://github.com/Acrazie">GitHub</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/mayeuld/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://www.skills.sh/acrazie/skills">Agent Skills</a>
+  <a href="https://github.com/Acrazie" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg"><img src="./assets/github-light.svg" width="24" height="24" alt="GitHub" align="middle"></picture></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" width="24" height="24" alt="LinkedIn" align="middle"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.skills.sh/acrazie/skills" target="_blank" rel="noopener noreferrer"><img src="./assets/skills-icon.svg" width="24" height="24" alt="Agent Skills" align="middle"></a>
 </p>
 
-<h2 align="center">Overview</h2>
-
-<p align="center">
-  Software Engineer &amp; AI Engineer.<br>
-  Building skills for coding agents.
-</p>
+<p align="center">Building skills for coding agents.</p>
 
 <h2 align="center">Agentic Harnesses</h2>
 
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="./assets/claude.svg" width="34" height="34" alt="Claude Code"><br>
+      <sub><b>Claude Code</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="./assets/codex.png" width="34" height="34" alt="Codex"><br>
+      <sub><b>Codex</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="./assets/hermes.png" width="34" height="34" alt="Hermes"><br>
+      <sub><b>Hermes</b></sub>
+    </td>
+    <td align="center" width="130">
+      <img src="./assets/antigravity.png" width="34" height="34" alt="Anti-Gravity"><br>
+      <sub><b>Anti-Gravity</b></sub>
+    </td>
+  </tr>
+</table>
+
+## Agent Skills Ecosystem
+
 <p align="center">
-  <strong>Claude Code</strong> &nbsp;·&nbsp; <strong>Codex</strong> &nbsp;·&nbsp; <strong>Hermes</strong> &nbsp;·&nbsp; <strong>Anti-Gravity</strong>
-</p>
-
-<h2 align="center">Engineering Stack</h2>
-
-<p align="center">
-  <strong>Frontend</strong><br>
-  React · TypeScript · JavaScript · SCSS · Tailwind CSS
-</p>
-
-<p align="center">
-  <strong>Backend</strong><br>
-  Python · Symfony · Node.js · PostgreSQL
-</p>
-
-<h2 align="center">Agent Skills Ecosystem</h2>
-
-<p align="center">
-  Skills I build for coding agents.<br>
-  Browse the collection on <a href="https://www.skills.sh/acrazie/skills">skills.sh/acrazie/skills</a>.
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/acrazie-skills-dark.svg">
+    <img src="./assets/acrazie-skills.svg" width="560" alt="Acrazie / Skills — Portée">
+  </picture>
 </p>
 
 ### [SVG Icon Designer](https://www.skills.sh/acrazie/skills/svg-icon-designer-acrazie)
 
-Design original SVG logos and icons through compact concept iterations.
+Original SVG logos and icons, developed through focused concept iterations.
 
 ### [Skill Refiner](https://www.skills.sh/acrazie/skills/skill-refiner-acrazie)
 
-Capture testing feedback in structured logs and architectural decision records.
+Structured testing feedback, refinement logs and decision records.
 
 ### [Audit Repository](https://www.skills.sh/acrazie/skills/audit-repository-acrazie)
 
-Inspect a technical decision against repository evidence.
+Technical decisions examined against evidence from the repository.
+
+[Explore the collection on skills.sh →](https://www.skills.sh/acrazie/skills)
 
 ```bash
 npx skills add acrazie/skills
 ```
+
+<p align="center">
+  <img src="./assets/agent-terminal.svg" width="100%" alt="Acrazie Agent Session">
+</p>

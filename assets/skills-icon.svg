@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <linearGradient id="portee-palette" gradientUnits="userSpaceOnUse" x1="14" y1="108" x2="114" y2="20">
+      <stop stop-color="#7295F5"/>
+      <stop offset=".34" stop-color="#A8BFFF"/>
+      <stop offset=".66" stop-color="#C5B9F5"/>
+      <stop offset="1" stop-color="#626CE8"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#portee-palette)" d="M14 20H62C86 20 106 31 114 50H88C82 43 73 40 61 40H14Z M14 54H53C74 54 91 64 100 82H74C69 76 62 74 52 74H14Z M14 88H44C57 88 68 95 74 108H14Z"/>
+</svg>
