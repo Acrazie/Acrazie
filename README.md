@@ -3,20 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Acrazie" target="_blank" rel="noopener noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg">
-      <img src="./assets/github-light.svg" width="24" height="24" alt="GitHub" align="middle">
-    </picture>
-  </a>
+  <a href="https://github.com/Acrazie" target="_blank" rel="noopener noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-dark.svg"><img src="./assets/github-light.svg" width="24" height="24" alt="GitHub" align="middle"></picture></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/linkedin.svg" width="24" height="24" alt="LinkedIn" align="middle">
-  </a>
+  <a href="https://www.linkedin.com/in/mayeuld/" target="_blank" rel="noopener noreferrer"><img src="./assets/linkedin.svg" width="24" height="24" alt="LinkedIn" align="middle"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.skills.sh/acrazie/skills" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/skills-icon.svg" width="24" height="24" alt="Agent Skills" align="middle">
-  </a>
+  <a href="https://www.skills.sh/acrazie/skills" target="_blank" rel="noopener noreferrer"><img src="./assets/skills-icon.svg" width="24" height="24" alt="Agent Skills" align="middle"></a>
 </p>
 
 <p align="center">Building skills for coding agents.</p>
