@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-banner.svg" width="100%" alt="Mayeul — AI Engineer">
+  <img src="./assets/hero-banner.svg?v=2" width="100%" alt="Mayeul — AI Engineer">
 </p>
 
 <p align="center">
